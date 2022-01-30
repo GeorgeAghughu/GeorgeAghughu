@@ -1,4 +1,15 @@
-### Hi there 👋 I am George
+[![MasterHead](https://c.tenor.com/jkOCtI7TwRIAAAAd/sworsy-code.gif)
+<h1 align="center">### Hi there 👋 I'm George</h1>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7fQ1CydIS4C_yCKEZuilpFiAGiDuY0xfZFw&usqp=CAU"
+     
+- 🔭 I’m currently working on <strong>Developing Coding Skills...</strong>
+- 🌱 I’m currently learning <strong>Web Development Courses...</strong>
+- 👯 I’m looking to collaborate on <strong>Web Development Projects...</strong>
+- 🤔 I’m looking for help with <strong>Web Development Courses...</strong>
+- 💬 Ask me about ... 
+- 📫 How to reach me: <strong>georgeighodaro@yahoo.com...</strong>
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <!--
 **GeorgeAghughu/GeorgeAghughu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
