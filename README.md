@@ -1,27 +1,23 @@
-[![MasterHead](https://c.tenor.com/jkOCtI7TwRIAAAAd/sworsy-code.gif)
-<h1 align="center">### Hi there 👋 I'm George</h1>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7fQ1CydIS4C_yCKEZuilpFiAGiDuY0xfZFw&usqp=CAU"
+![MasterHead](https://c.tenor.com/jkOCtI7TwRIAAAAd/sworsy-code.gif)
+
+# Hi there 👋 I'm George
+
+![alt text](./coding.jpg)
      
-- 🔭 I’m currently working on <strong>Developing Coding Skills...</strong>
-- 🌱 I’m currently learning <strong>Web Development Courses...</strong>
-- 👯 I’m looking to collaborate on <strong>Web Development Projects...</strong>
-- 🤔 I’m looking for help with <strong>Web Development Courses...</strong>
+- 🔭 I’m currently working on **improving my Coding Skills...**
+- 🌱 I’m currently learning **Web Development Courses...**
+- 👯 I’m looking to **collaborate with others on Web Development Projects...**
+- 🤔 I’m looking forward to become a **Web Developer**
 - 💬 Ask me about ... 
-- 📫 How to reach me: <strong>georgeighodaro@yahoo.com...</strong>
+- 📫 How to reach me: **georgeighodaro@yahoo.com...**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!--
-**GeorgeAghughu/GeorgeAghughu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 3 begginner friendly computer programming to learn and practice with others. 
+  |Lists | courses|
+  ----------------
+1 |Course | Html |
 
-Here are some ideas to get you started:
+2 |Course | CSS |
 
-- 🔭 I’m currently working on Web development...
-- 🌱 I’m currently learning Web development Courses...
-- 👯 I’m looking to collaborate on Web Development projects...
-- 🤔 I’m looking for help with Web development Courses...
-- 💬 Ask me about ... 
-- 📫 How to reach me: georgeighodaro@yahoo.com...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3 |Course | Javascript|
